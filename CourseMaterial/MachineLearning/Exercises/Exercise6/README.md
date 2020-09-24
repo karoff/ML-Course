@@ -3,9 +3,13 @@ Parts of this exercise has been greatly inspired by Amarjeet Kumar's [Introducti
 In order to install the needed libaries in Anaconda, you should do the following:
 
 In a terminal:
+
 conda create -n tf tensorflow
+
 conda activate tf
+
 pip install --upgrade pip
+
 pip install numpy scikit-learn split_folders matplotlib keras tensorflow
 
 Now start Anaconda and select tf, then start Spyder
