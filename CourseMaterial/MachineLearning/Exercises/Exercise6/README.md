@@ -12,5 +12,3 @@ pip install --upgrade pip
 
 pip install numpy scikit-learn split_folders matplotlib keras tensorflow
 
-Now start Anaconda and select tf, then start Spyder
-
