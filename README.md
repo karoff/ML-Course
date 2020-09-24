@@ -75,6 +75,12 @@ If you would like a brief introduction to machine learning, watch 3Blue1Brown's 
 
 Using Anaconda should be seen as a suggestion for newcomers in the field. If you already have another solution running, such as using Docker containers, you are welcome to continue in this way. 
 
+# Installing GIT
+1) Install git for windows: https://git-scm.com/download/win
+
+2) Type in: ‘git clone https://github.com/karoff/ML-Course’
+
+
 
 # Acknowledgments
 The material in this repository has been collected from a variety of sources. Thanks to the authors of the online courses for making their valuable teachings accesible for free. Furthermore, thanks to all authors of the open textbooks, YouTube channels, exercises, and lecture notes.
